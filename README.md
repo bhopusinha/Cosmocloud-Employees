@@ -25,7 +25,7 @@ Clone the repository and install dependencies:
 
 ```sh
 git clone https://github.com/bhopusinha/Cosmocloud-Employees.git
-cd Cosmocloud-Employees
+cd Cosmocloud-Employees-main
 npm install
 ```
 ## Running the Application
