@@ -52,6 +52,13 @@ Once the application is running, you can:
 - delete employee details
 - Navigate to detailed views for each employee
 
+  ## deployment
+for seamless experience i am providing deployment link
+
+```sh
+ cosmocloud-employees.vercel.app
+```
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -65,4 +72,6 @@ For any questions or support, please contact Bhupendra Sinha.
 
 - Phone : 9179331629
 - Email : bhupendrasinha35413@gmail.com
+
+  
 
