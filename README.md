@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Cosmocloud-Employees
-=======
+
 # Cosmocloud-Employees
 
 ## _A Simple CRUD Application using React and Cosmocloud API_
@@ -68,5 +68,3 @@ For any questions or support, please contact Bhupendra Sinha.
 - Phone : 9179331629
 - Email : bhupendrasinha35413@gmail.com
 
-
->>>>>>> 9226d81 (Initial commit)
