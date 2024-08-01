@@ -1,8 +1,6 @@
 
 # Cosmocloud-Employees
 
-# Cosmocloud-Employees
-
 ## _A Simple CRUD Application using React and Cosmocloud API_
 
 Employee Management System is a web application designed to manage employee information. It is built using React and Cosmocloud APIs with Vite as the build tool.
